@@ -1,7 +1,3 @@
-Certainly! Here’s a more detailed `README.md` with sections for screenshots and more comprehensive information:
-
----
-
 # E-Waste Monitoring System
 
 ## Overview

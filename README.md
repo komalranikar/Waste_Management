@@ -4,7 +4,7 @@
 
 The E-Waste Monitoring System is a Python desktop application using Tkinter, designed to assist in managing electronic waste. This system helps users track electronic items, manage their lifecycle, and ensure proper disposal or replacement. It features an intuitive interface for adding, viewing, editing, replacing, and deleting electronic items.
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Features
 
@@ -60,6 +60,8 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 1. Click the **"Replace Item"** button.
 2. Enter the serial number of the item to replace and the new replacement date.
 3. The item's status will be updated to "Replaced."
+![Screenshot](rep.png)
+![Screenshot](rep1.png)
 
 ### Deleting an Item
 
@@ -72,7 +74,7 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 ### Clearing the Table
 
 Click the **"Clear Table"** button to remove all items from the table view.
-![Screenshot](Screenshot.png)
+![Screenshot](clear.png)
 
 ### Filtering by Category
 

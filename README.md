@@ -4,8 +4,6 @@
 
 The E-Waste Monitoring System is a Python desktop application using Tkinter, designed to assist in managing electronic waste. This system helps users track electronic items, manage their lifecycle, and ensure proper disposal or replacement. It features an intuitive interface for adding, viewing, editing, replacing, and deleting electronic items.
 
-![Screenshot](screenshot.png)
-
 ## Features
 
 - **Add Item**: Input details for new electronic items including name, serial number, purchase date, replacement date, and category.
@@ -23,7 +21,6 @@ The E-Waste Monitoring System is a Python desktop application using Tkinter, des
 - **Tkinter**: Included with Python; no separate installation needed.
 - **datetime**: Standard Python library for handling dates.
 
-
 ## Usage
 
 ### Main Interface
@@ -34,8 +31,9 @@ The main window contains the following components:
 - **Buttons**: Various action buttons for adding, monitoring, editing, replacing, deleting, clearing, and filtering items.
 - **Search Bar**: Allows searching by name or serial number.
 - **Table View**: Displays items with columns for Name, Serial Number, Category, Purchase Date, Replacement Date, and Status.
+![Screenshot](ss.png)
 
-### Adding an Item
+### 1. Adding an Item
 
 1. Click the **"Add Item"** button.
 2. Enter the item's name, serial number, category, purchase date, and replacement date.
@@ -43,19 +41,19 @@ The main window contains the following components:
 ![Screenshot](add1.png)
 ![Screenshot](add2.png)
 
-### Displaying Items
+### 2. Displaying Items
 
 Click **"Monitor Items"** to refresh and view all items currently in the system.
 ![Screenshot](monitor.png)
 
-### Editing an Item
+### 3. Editing an Item
 
 1. Click the **"Edit Item"** button.
 2. Enter the serial number of the item you want to edit.
 3. Update the details as needed and save the changes.
 ![Screenshot](edit.png)
 
-### Replacing an Item
+### 4. Replacing an Item
 
 1. Click the **"Replace Item"** button.
 2. Enter the serial number of the item to replace and the new replacement date.
@@ -63,7 +61,7 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 ![Screenshot](rep.png)
 ![Screenshot](rep1.png)
 
-### Deleting an Item
+### 5. Deleting an Item
 
 1. Click the **"Delete Item"** button.
 2. Enter the serial number of the item to delete.
@@ -71,12 +69,12 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 ![Screenshot](del.png)
 ![Screenshot](del1.png)
 
-### Clearing the Table
+### 6. Clearing the Table
 
 Click the **"Clear Table"** button to remove all items from the table view.
 ![Screenshot](clear.png)
 
-### Filtering by Category
+### 7. Filtering by Category
 
 1. Click the **"Category-Wise"** button.
 2. Enter the category you want to filter by.
@@ -84,7 +82,7 @@ Click the **"Clear Table"** button to remove all items from the table view.
 ![Screenshot](cat.png)
 ![Screenshot](cat1.png)
 
-### Searching for Items
+### 8. Searching for Items
 
 1. Enter a search term in the **"Search by Name or Serial"** field.
 2. Click the **"Search"** button to view items that match the search term.

@@ -31,6 +31,7 @@ The main window contains the following components:
 - **Buttons**: Various action buttons for adding, monitoring, editing, replacing, deleting, clearing, and filtering items.
 - **Search Bar**: Allows searching by name or serial number.
 - **Table View**: Displays items with columns for Name, Serial Number, Category, Purchase Date, Replacement Date, and Status.
+
 ![Screenshot](ss.png)
 
 ### 1. Adding an Item
@@ -38,12 +39,14 @@ The main window contains the following components:
 1. Click the **"Add Item"** button.
 2. Enter the item's name, serial number, category, purchase date, and replacement date.
 3. Confirm the input and the item will be added to the list.
+
 ![Screenshot](add1.png)
 ![Screenshot](add2.png)
 
 ### 2. Displaying Items
 
 Click **"Monitor Items"** to refresh and view all items currently in the system.
+
 ![Screenshot](monitor.png)
 
 ### 3. Editing an Item
@@ -51,6 +54,7 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 1. Click the **"Edit Item"** button.
 2. Enter the serial number of the item you want to edit.
 3. Update the details as needed and save the changes.
+
 ![Screenshot](edit.png)
 
 ### 4. Replacing an Item
@@ -58,6 +62,7 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 1. Click the **"Replace Item"** button.
 2. Enter the serial number of the item to replace and the new replacement date.
 3. The item's status will be updated to "Replaced."
+
 ![Screenshot](rep.png)
 ![Screenshot](rep1.png)
 
@@ -66,12 +71,14 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 1. Click the **"Delete Item"** button.
 2. Enter the serial number of the item to delete.
 3. The item will be removed from the list.
+
 ![Screenshot](del.png)
 ![Screenshot](del1.png)
 
 ### 6. Clearing the Table
 
 Click the **"Clear Table"** button to remove all items from the table view.
+
 ![Screenshot](clear.png)
 
 ### 7. Filtering by Category
@@ -79,6 +86,7 @@ Click the **"Clear Table"** button to remove all items from the table view.
 1. Click the **"Category-Wise"** button.
 2. Enter the category you want to filter by.
 3. The table will display only items in the selected category.
+
 ![Screenshot](cat.png)
 ![Screenshot](cat1.png)
 

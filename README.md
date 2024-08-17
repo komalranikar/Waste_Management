@@ -40,16 +40,20 @@ The main window contains the following components:
 1. Click the **"Add Item"** button.
 2. Enter the item's name, serial number, category, purchase date, and replacement date.
 3. Confirm the input and the item will be added to the list.
+![Screenshot](add1.png)
+![Screenshot](add2.png)
 
 ### Displaying Items
 
 Click **"Monitor Items"** to refresh and view all items currently in the system.
+![Screenshot](monitor.png)
 
 ### Editing an Item
 
 1. Click the **"Edit Item"** button.
 2. Enter the serial number of the item you want to edit.
 3. Update the details as needed and save the changes.
+![Screenshot](edit.png)
 
 ### Replacing an Item
 
@@ -62,19 +66,28 @@ Click **"Monitor Items"** to refresh and view all items currently in the system.
 1. Click the **"Delete Item"** button.
 2. Enter the serial number of the item to delete.
 3. The item will be removed from the list.
+![Screenshot](del.png)
+![Screenshot](del1.png)
 
 ### Clearing the Table
 
 Click the **"Clear Table"** button to remove all items from the table view.
+![Screenshot](Screenshot.png)
 
 ### Filtering by Category
 
 1. Click the **"Category-Wise"** button.
 2. Enter the category you want to filter by.
 3. The table will display only items in the selected category.
+![Screenshot](cat.png)
+![Screenshot](cat1.png)
 
 ### Searching for Items
 
 1. Enter a search term in the **"Search by Name or Serial"** field.
 2. Click the **"Search"** button to view items that match the search term.
+
+![Screenshot](search.png)
+![Screenshot](search1.png)
+
 

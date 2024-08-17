@@ -4,7 +4,7 @@
 
 The E-Waste Monitoring System is a Python desktop application using Tkinter, designed to assist in managing electronic waste. This system helps users track electronic items, manage their lifecycle, and ensure proper disposal or replacement. It features an intuitive interface for adding, viewing, editing, replacing, and deleting electronic items.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Features
 

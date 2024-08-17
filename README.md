@@ -23,27 +23,6 @@ The E-Waste Monitoring System is a Python desktop application using Tkinter, des
 - **Tkinter**: Included with Python; no separate installation needed.
 - **datetime**: Standard Python library for handling dates.
 
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/e-waste-monitoring-system.git
-   ```
-
-2. **Navigate to the Project Directory**
-
-   ```bash
-   cd e-waste-monitoring-system
-   ```
-
-3. **Run the Application**
-
-   ```bash
-   python app.py
-   ```
-
-   Replace `app.py` with the filename of your main script if different.
 
 ## Usage
 
